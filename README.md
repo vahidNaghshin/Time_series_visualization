@@ -10,3 +10,18 @@ This is the solution to the exercises of chapter 2 of forcasting: prinsiples and
 
 -Australian monthly gas production: 1956–1995.
 ![GitHub Logo](/gas.png)
+
+-Download the file tute1.csv from the book website, open it in Excel (or
+some other spreadsheet application), and review its contents. You should find four columns of information. Columns B through D each contain a quarterly series, labelled Sales, AdBudget and GDP. Sales contains the quarterly sales for a small company over the period 1981-2005. AdBudget is the advertising budget and GDP is the gross domestic product. All series have been adjusted for inflation.
+
+-time series plot
+![GitHub Logo](/myts.png)
+-seasonplot
+![GitHub Logo](/seasonplot.png)
+-subseries plot
+![GitHub Logo](/subseries.png)
+-lagplot
+![GitHub Logo](/lagplot.png)
+-autocorrelation function
+![GitHub Logo](/acf.png)
+
