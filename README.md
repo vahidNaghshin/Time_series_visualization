@@ -7,4 +7,3 @@ This is the solution to the exercises of chapter 2 of forcasting: prinsiples and
 
 - Quarterly production of woollen yarn in Australia: tonnes. Mar 1965 – Sep 1994.
 ![GitHub Logo](/woolyrn.png)
-Format: ![Alt Text](https://github.com/vahidNaghshin/Chapter_8_Introductory_Time_Series_with_R/blob/master/woolyrn.png)
