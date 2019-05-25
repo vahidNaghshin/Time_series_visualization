@@ -4,7 +4,7 @@ This is the solution to the exercises of chapter 2 of forcasting: prinsiples and
 
 - Daily morning gold prices in US dollars. 1 January 1985 – 31 March 1989.
 ![GitHub Logo](/daily_morning_price.png)
-Format: ![Alt Text](https://github.com/vahidNaghshin/Time_series_visualization/blob/master/daily_morning_price.png)
+
 - Quarterly production of woollen yarn in Australia: tonnes. Mar 1965 – Sep 1994.
 ![GitHub Logo](/woolyrn.png)
 Format: ![Alt Text](https://github.com/vahidNaghshin/Chapter_8_Introductory_Time_Series_with_R/blob/master/woolyrn.png)
