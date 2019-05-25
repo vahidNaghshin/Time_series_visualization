@@ -25,3 +25,7 @@ some other spreadsheet application), and review its contents. You should find fo
 -autocorrelation function
 ![GitHub Logo](/acf.png)
 
+-Annual bituminous coal production in the USA: 1920–1968.
+![GitHub Logo](/bicoalts.png)
+-Closing stock prices of GOOG from the NASDAQ exchange, for 1000 consecutive trading days between 25 February 2013 and 13 February 2017. Adjusted for splits. goog200 contains the first 200 observations from goog.
+![GitHub Logo](/google.png)
